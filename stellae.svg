@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <defs>
+    <linearGradient id="mars" x1="0" x2="1" y1="0" y2="1">
+      <stop stop-color="#ffd0a3" />
+      <stop offset="1" stop-color="#d65e4d" />
+    </linearGradient>
+  </defs>
+  <circle cx="32" cy="32" r="29" fill="#20203d" />
+  <circle cx="32" cy="32" r="22" fill="url(#mars)" />
+  <path d="M12 37c9-8 19 8 40-3" fill="none" stroke="#8c3d43" stroke-linecap="round" stroke-width="3" />
+</svg>
